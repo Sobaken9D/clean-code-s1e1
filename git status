@@ -1,0 +1,107 @@
+[33mcommit 596ba8a78f570da896a6034cec70eafc68703101[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m, [m[1;31morigin/clean-code-s1e1[m[33m)[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 20:21:19 2023 +0300
+
+    fix: delete mnemonics in html according to rule 2.3 in html-and-css.md
+
+[33mcommit cb22bc711b5ea4c47b06ee25696d5fd50dacc48c[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 20:15:56 2023 +0300
+
+    fix: add double space for padding tags in html according to rule 1.1 in html-and-css.md
+
+[33mcommit 6a993dac59f593138197fe07cfe284b91819d35b[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 20:09:13 2023 +0300
+
+    fix: add double quotes in html according to rule 1.3 in html-and-css.md
+
+[33mcommit 61df3f932a42ec3e2f000ff940eeb63c9b63f2dc[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 20:04:18 2023 +0300
+
+    fix: change case for tags and attributes in html according to rule 1.2 in html-and-css.md
+
+[33mcommit e53721f978811a425d2cb3406ae0bec2722d6d54[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 19:52:23 2023 +0300
+
+    fix: add paddings for tags in html according to rule 2.1 in html-and-css.md
+
+[33mcommit c57d8ee6b71d3458006a1151bca151c8f1a1a158[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 19:14:22 2023 +0300
+
+    fix: delete attributes 'type' according to rule 2.4 in html-and-css.md
+
+[33mcommit f86088f5ab1d1c1c247f0d68d75ba516e41524ff[m
+Author: Sobaken9D <ddrevetnak@gmail.com>
+Date:   Wed Apr 19 19:07:16 2023 +0300
+
+    fix: add Html5 DOCTYPE tag according to rule 2.2 in html-and-css.md
+
+[33mcommit 395e6275b9bfc50c041b0fa12e30844d19e12c55[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Viktoryia Yatskova <ViktoryiaYatskova@users.noreply.github.com>
+Date:   Fri Apr 2 15:02:00 2021 +0300
+
+    Update screenshot in Read.me
+
+[33mcommit da70ba7a54c1d68a310471efd9841ebbafae7a4c[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Fri Apr 2 14:55:41 2021 +0300
+
+    fix: Add lost class for input-element
+
+[33mcommit 617bd00b452a721bd5369af139eb0f89035e349a[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Fri Apr 2 14:47:33 2021 +0300
+
+    refactor: Remove redundant css-rules
+
+[33mcommit 4f5fffae422a87d312bc94899f39ab896d5965fe[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Wed Mar 24 14:10:23 2021 +0300
+
+    fix: Styles for new task and remove text for Delete-button
+
+[33mcommit 91cdcedd77c666eac8cd4c10918fdd76dc0591c6[m
+Merge: a38cd58 98ef54f
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Wed Mar 24 13:25:39 2021 +0300
+
+    Merge branch 'master' of github.com:ViktoryiaYatskova/clean-code-s1e1
+
+[33mcommit a38cd58a90e13a16d65c035d098b68cea2baa772[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Wed Mar 24 13:24:48 2021 +0300
+
+    fix: Fix task row layout
+
+[33mcommit 98ef54ff91b1455b1030a996d3622133d76d1b69[m
+Merge: 7425cec 1889535
+Author: Viktoryia Yatskova <ViktoryiaYatskova@users.noreply.github.com>
+Date:   Mon Mar 22 22:02:04 2021 +0300
+
+    Merge pull request #1 from chlkvnck/patch-1
+    
+    fix: markdown markup
+
+[33mcommit 1889535ce73e59b1807fbffb719b16138999237a[m
+Author: Nick Chalkov <53650602+chlkvnck@users.noreply.github.com>
+Date:   Mon Mar 22 17:02:02 2021 +0300
+
+    fix: markdown markup
+    
+    Last line of requirements had different bullet type
+
+[33mcommit 7425cec71bc913197fcd435a0cbee2eee836aec1[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Sun Mar 21 23:05:30 2021 +0300
+
+    New README
+
+[33mcommit 6cbfd158cba00c740320844ac61c47ca72f78c81[m
+Author: Viktoryia Yatskova <epa03005@adobe.com>
+Date:   Sun Mar 21 23:02:19 2021 +0300
+
+    Add project files
