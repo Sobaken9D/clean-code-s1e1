@@ -6,25 +6,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Todo App</title>
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
-  <link rel="stylesheet" href="style.css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="style.css" media="screen">
 </head>
 <body class="page">
-  <div class="info">
+  <header class="info">
     <div class="wrapper info__wrapper">
     <img class="info__image" src="./eisenhower-matrix.jpg">
     <a class="info__more-details" href="https://goal-life.com/page/method/matrix-eisenhower">Want more details?</a>
-  </div>
-  </div>
-  <div class="todo">
-    <div class="wrapper todo__wrapper">
-      <p class="section-add" id="adding-element">
-        <label class="section-add__header section-header" for="new-task-name">Add Item</label>
+    </div>
+  </header>
+  <main class="todo">
+    <article class="wrapper todo__wrapper">
+      <section class="section-add" id="adding-element">
+        <h3 class="section-add__header section-header">Add Item</h3>
         <div class="section-add__main">
           <input class="section-add__input input_text input" id="new-task-name" type="text">
           <button class="section-add__button button">Add</button>
         </div>
-      </p>
-      <div class="section-todo">
+      </section>
+      <section class="section-todo">
         <h3 class="section-todo__header section-header">Todo</h3>
         <div class="section-todo__main">
           <ul class="section-todo__list todo-list list" id="todo-tasks">
@@ -48,8 +48,8 @@
             </li>
           </ul>
         </div>
-      </div>
-      <div class="section-completed">
+      </section>
+      <section class="section-completed">
         <h3 class="section-completed__header section-header">Completed</h3>
         <ul class="section-completed__list completed-list list" id="completed-tasks">
           <li class="list__item list-item">
@@ -62,9 +62,9 @@
             </button>
           </li>
         </ul>
-      </div>
-    </div>
-  </div>
+      </section>
+    </article>
+  </main>
   <script SRC="app.js"></script>
 </body>
 </html>
